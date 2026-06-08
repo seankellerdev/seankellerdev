@@ -1,4 +1,4 @@
-# 👨‍💻 Sean Keller — Full Stack AI Engineer (7+ Years)
+# 👨‍💻 Sean Keller — Full Stack AI Engineer (8+ Years)
 
 ## 🚀 About Me
 
