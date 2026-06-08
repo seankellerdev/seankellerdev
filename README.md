@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm **Sean Keller**, a **Full Stack AI Engineer** with over **7 years of experience** building scalable web applications, intelligent automation systems, and AI-powered products.
+I'm **Sean Keller**, a **Full Stack AI Engineer** with over **8 years of experience** building scalable web applications, intelligent automation systems, and AI-powered products.
 
 My expertise spans modern full-stack development using **MERN**, **Ruby on Rails**, **Python**, and cutting-edge AI technologies including **LLMs, Agentic AI, Retrieval-Augmented Generation (RAG), and AI Workflow Automation**.
 
